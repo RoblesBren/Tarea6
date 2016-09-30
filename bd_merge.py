@@ -7,3 +7,6 @@ class cancion():
 
     def get_title(self):
         return sefl.titulo
+        
+    def get_artista(self):
+        return self.artista
