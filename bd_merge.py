@@ -4,4 +4,5 @@ class cancion():
         self.artista
         self.album
 
-    
+    def get_title(self):
+        return sefl.titulo
