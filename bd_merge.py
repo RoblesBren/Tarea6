@@ -1,4 +1,4 @@
-#clase cancion
+#clase cancion mejorado
 class cancion():
     def __init__(self):
         self.titulo
@@ -7,6 +7,6 @@ class cancion():
 
     def get_title(self):
         return sefl.titulo
-        
+
     def get_artista(self):
         return self.artista
